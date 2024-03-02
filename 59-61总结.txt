@@ -1,0 +1,1 @@
+在本部分内容中，介绍了OpenCV的 Facemark API、dlib 的 shape_predictor()函数以及 face_recognition 的 face_landmarks()函数进行面部特征点检测。

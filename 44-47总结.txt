@@ -1,0 +1,1 @@
+  在本部分内容中，我们学习了如何利用获取到的轮廓，进行形状分析以及对象检测和识别，可以利用cv2.boundingRect()、cv2.minAreaRect()、cv2.minEnclosingCircle()、cv2.fillEllipse()和cv2.approxPolyDP()进行轮廓绘制，使用cv2.contourArea()计算轮廓面积，以及cv2.matchShapes()进行轮廓的匹配。

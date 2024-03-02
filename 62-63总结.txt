@@ -1,0 +1,1 @@
+  dlib 库实现了基于 DCF 的跟踪器，非常适合用于进行人脸追踪，使用 dlib.correlation_tracker() 函数初始化跟踪器，tracker.start_track() 函数用于开始追踪对象，tracker.update() 函数更新追踪器并且返回追踪器置信度，若要获取被跟踪对象的位置需要使用 tracker.get_position() 函数。

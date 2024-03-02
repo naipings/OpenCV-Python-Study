@@ -1,0 +1,1 @@
+  在处理直方图时，直方图均衡化也是一个重要方法和功能，我们学习了如何对灰度图像和彩色图像进行直方图均衡化，也看到了直方图比较 对于 执行 图像比较 的重要帮助，OpenCV提供的四种度量方式来衡量两个直方图之间的相似性，分别是cv2.HISTCMP_CORREL、cv2.HISTCMP+CHISQR、cv2.HISTCMP_INTERSECT和cv2.HISTCMP_BHATTACHARYYA。

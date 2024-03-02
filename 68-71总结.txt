@@ -1,0 +1,1 @@
+  在本部分中，我们首先通过 cv2.dnn.blobFromImage() 和 cv2.dnn.blobFromImages() 函数了解了如何在OpenCV中构建网络输入 blob，然后通过实战学习将流行的深度学习模型架构应用于图像分类和目标检测中，构建OpenCV计算机视觉项目。

@@ -1,0 +1,1 @@
+本部分我们介绍了人脸处理包含的主要主题，同时介绍了相关库的安装，并介绍了利用OpenCV、dlib、face_recognition和cvlib进行人脸检测的相关方法。
