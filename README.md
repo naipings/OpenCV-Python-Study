@@ -1,4 +1,4 @@
-# 个人 OpenCVython-P 学习代码
+# 个人 OpenCV-Python 学习代码
 
 ## 项目简介
 
